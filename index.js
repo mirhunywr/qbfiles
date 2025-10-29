@@ -125,7 +125,7 @@ const port = process.env.PORT || 9090;
 ├─ 📢 *Join Channel:*  
 │    https://whatsapp.com/channel/0029VbBLPHQ2f3ELsetyRa0a  
 ├─ 🌟 *Star the Repo:*  
-│    https://github.com/QadeerXTech/QADEER-AI  
+│    https://github.com/EM-QADEER/QADEER-MD  
 ╰─🚀 *POWERED BY QADEER BRAHVI*`;
 
     conn.sendMessage(conn.user.id,{ image: { url: `https://files.catbox.moe/eth3xg.jpg` }, caption: up })
